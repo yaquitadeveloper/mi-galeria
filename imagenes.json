@@ -1,0 +1,17 @@
+{
+    "categoria1": [
+        "https://TU_USUARIO.github.io/mi-galeria/imagenes/categoria1/imagen1.jpg",
+        "https://TU_USUARIO.github.io/mi-galeria/imagenes/categoria1/imagen2.jpg",
+        "https://TU_USUARIO.github.io/mi-galeria/imagenes/categoria1/imagen3.jpg"
+    ],
+    "categoria2": [
+        "https://TU_USUARIO.github.io/mi-galeria/imagenes/categoria2/imagen4.jpg",
+        "https://TU_USUARIO.github.io/mi-galeria/imagenes/categoria2/imagen5.jpg",
+        "https://TU_USUARIO.github.io/mi-galeria/imagenes/categoria2/imagen6.jpg"
+    ],
+    "categoria3": [
+        "https://TU_USUARIO.github.io/mi-galeria/imagenes/categoria3/imagen7.jpg",
+        "https://TU_USUARIO.github.io/mi-galeria/imagenes/categoria3/imagen8.jpg",
+        "https://TU_USUARIO.github.io/mi-galeria/imagenes/categoria3/imagen9.jpg"
+    ]
+}
