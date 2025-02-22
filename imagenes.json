@@ -1,17 +1,62 @@
 {
-    "categoria1": [
-        "https://TU_USUARIO.github.io/mi-galeria/imagenes/categoria1/imagen1.jpg",
-        "https://TU_USUARIO.github.io/mi-galeria/imagenes/categoria1/imagen2.jpg",
-        "https://TU_USUARIO.github.io/mi-galeria/imagenes/categoria1/imagen3.jpg"
+    "animales": [
+        "imagenes/animales/animal1.png",
+        "imagenes/animales/animal2.png",
+        "imagenes/animales/animal3.png",
+        "imagenes/animales/animal4.png",
+        "imagenes/animales/animal5.png",
+        "imagenes/animales/animal6.png",
+        "imagenes/animales/animal7.png",
+        "imagenes/animales/animal8.png"
     ],
-    "categoria2": [
-        "https://TU_USUARIO.github.io/mi-galeria/imagenes/categoria2/imagen4.jpg",
-        "https://TU_USUARIO.github.io/mi-galeria/imagenes/categoria2/imagen5.jpg",
-        "https://TU_USUARIO.github.io/mi-galeria/imagenes/categoria2/imagen6.jpg"
+    "ciencia": [
+        "imagenes/ciencia/ciencia1.png",
+        "imagenes/ciencia/ciencia2.png",
+        "imagenes/ciencia/ciencia3.png",
+        "imagenes/ciencia/ciencia4.png",
+        "imagenes/ciencia/ciencia5.png",
+        "imagenes/ciencia/ciencia6.png",
+        "imagenes/ciencia/ciencia7.png",
+        "imagenes/ciencia/ciencia8.png"
     ],
-    "categoria3": [
-        "https://TU_USUARIO.github.io/mi-galeria/imagenes/categoria3/imagen7.jpg",
-        "https://TU_USUARIO.github.io/mi-galeria/imagenes/categoria3/imagen8.jpg",
-        "https://TU_USUARIO.github.io/mi-galeria/imagenes/categoria3/imagen9.jpg"
+    "ciudades": [
+        "imagenes/ciudades/ciudad1.png",
+        "imagenes/ciudades/ciudad2.png",
+        "imagenes/ciudades/ciudad3.png",
+        "imagenes/ciudades/ciudad4.png",
+        "imagenes/ciudades/ciudad5.png",
+        "imagenes/ciudades/ciudad6.png",
+        "imagenes/ciudades/ciudad7.png",
+        "imagenes/ciudades/ciudad8.png"
+    ],
+    "hobbys": [
+        "imagenes/hobbys/hobbi1.png",
+        "imagenes/hobbys/hobbi2.png",
+        "imagenes/hobbys/hobbi3.png",
+        "imagenes/hobbys/hobbi4.png",
+        "imagenes/hobbys/hobbi5.png",
+        "imagenes/hobbys/hobbi6.png",
+        "imagenes/hobbys/hobbi7.png",
+        "imagenes/hobbys/hobbi8.png"
+    ],
+    "naturaleza": [
+        "imagenes/naturaleza/natura1.png",
+        "imagenes/naturaleza/natura2.png",
+        "imagenes/naturaleza/natura3.png",
+        "imagenes/naturaleza/natura4.png",
+        "imagenes/naturaleza/natura5.png",
+        "imagenes/naturaleza/natura6.png",
+        "imagenes/naturaleza/natura7.png",
+        "imagenes/naturaleza/natura8.png"
+    ],
+    "tecnologia": [
+        "imagenes/tecnologia/tec1.png",
+        "imagenes/tecnologia/tec2.png",
+        "imagenes/tecnologia/tec3.png",
+        "imagenes/tecnologia/tec4.png",
+        "imagenes/tecnologia/tec5.png",
+        "imagenes/tecnologia/tec6.png",
+        "imagenes/tecnologia/tec7.png",
+        "imagenes/tecnologia/tec8.png"
     ]
 }
