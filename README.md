@@ -12,12 +12,12 @@ Este repositorio contiene una colección de imágenes organizadas por categoría
 Puedes acceder a las imágenes directamente utilizando las URLs proporcionadas en el archivo `imagenes.json`. Por ejemplo:
 
 - Categoría 1:
-  - https://TU_USUARIO.github.io/mi-galeria/imagenes/categoria1/imagen1.jpg
-  - https://TU_USUARIO.github.io/mi-galeria/imagenes/categoria1/imagen2.jpg
+  -https://github.com/yaquitadeveloper/mi-galeria/imagenes/categoria1/imagen1.jpg  
+  -https://github.com/yaquitadeveloper/mi-galeria/imagenes/categoria1/imagen2.jpg
 
 - Categoría 2:
-  - https://TU_USUARIO.github.io/mi-galeria/imagenes/categoria2/imagen4.jpg
-  - https://TU_USUARIO.github.io/mi-galeria/imagenes/categoria2/imagen5.jpg
+  - https://github.com/yaquitadeveloper/mi-galeria/imagenes/categoria2/imagen4.jpg
+  - https://github.com/yaquitadeveloper/mi-galeria/imagenes/categoria2/imagen5.jpg
 
 ## Uso en Otros Proyectos
 
