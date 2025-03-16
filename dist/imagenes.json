@@ -1,0 +1,62 @@
+{
+    "animales": [
+        "imagenes/animales/animal1.png",
+        "imagenes/animales/animal2.png",
+        "imagenes/animales/animal3.png",
+        "imagenes/animales/animal4.png",
+        "imagenes/animales/animal5.png",
+        "imagenes/animales/animal6.png",
+        "imagenes/animales/animal7.png",
+        "imagenes/animales/animal8.png"
+    ],
+    "ciencia": [
+        "imagenes/ciencia/ciencia1.png",
+        "imagenes/ciencia/ciencia2.png",
+        "imagenes/ciencia/ciencia3.png",
+        "imagenes/ciencia/ciencia4.png",
+        "imagenes/ciencia/ciencia5.png",
+        "imagenes/ciencia/ciencia6.png",
+        "imagenes/ciencia/ciencia7.png",
+        "imagenes/ciencia/ciencia8.png"
+    ],
+    "ciudades": [
+        "imagenes/ciudades/ciudad1.png",
+        "imagenes/ciudades/ciudad2.png",
+        "imagenes/ciudades/ciudad3.png",
+        "imagenes/ciudades/ciudad4.png",
+        "imagenes/ciudades/ciudad5.png",
+        "imagenes/ciudades/ciudad6.png",
+        "imagenes/ciudades/ciudad7.png",
+        "imagenes/ciudades/ciudad8.png"
+    ],
+    "hobbies": [
+        "imagenes/hobbies/hobby1.png",
+        "imagenes/hobbies/hobby2.png",
+        "imagenes/hobbies/hobby3.png",
+        "imagenes/hobbies/hobby4.png",
+        "imagenes/hobbies/hobby5.png",
+        "imagenes/hobbies/hobby6.png",
+        "imagenes/hobbies/hobby7.png",
+        "imagenes/hobbies/hobby8.png"
+    ],
+    "naturaleza": [
+        "imagenes/naturaleza/natura1.png",
+        "imagenes/naturaleza/natura2.png",
+        "imagenes/naturaleza/natura3.png",
+        "imagenes/naturaleza/natura4.png",
+        "imagenes/naturaleza/natura5.png",
+        "imagenes/naturaleza/natura6.png",
+        "imagenes/naturaleza/natura7.png",
+        "imagenes/naturaleza/natura8.png"
+    ],
+    "tecnologia": [
+        "imagenes/tecnologia/tec1.png",
+        "imagenes/tecnologia/tec2.png",
+        "imagenes/tecnologia/tec3.png",
+        "imagenes/tecnologia/tec4.png",
+        "imagenes/tecnologia/tec5.png",
+        "imagenes/tecnologia/tec6.png",
+        "imagenes/tecnologia/tec7.png",
+        "imagenes/tecnologia/tec8.png"
+    ]
+}
