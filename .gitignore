@@ -1,0 +1,8 @@
+node_modules
+package.json
+package-lock.json
+
+resizeEmojis.js
+bundle.js
+resizeTecnologia.js
+resizeTo50KB.js
