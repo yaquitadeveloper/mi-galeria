@@ -8,19 +8,19 @@
         "imagenes/animales/animal6.webp"
     ],
     "emojis": [
-        "imagenes/emijis/emoji1.png",
-        "imagenes/emijis/emoji2.png",
-        "imagenes/emijis/emoji3.png",
-        "imagenes/emijis/emoji4.png",
-        "imagenes/emijis/emoji5.png",
-        "imagenes/emijis/emoji6.png"
+        "imagenes/emojis/emoji1.webp",
+        "imagenes/emojis/emoji2.webp",
+        "imagenes/emojis/emoji3.webp",
+        "imagenes/emojis/emoji4.webp",
+        "imagenes/emojis/emoji5.webp",
+        "imagenes/emojis/emoji6.webp"
     ],
     "tecnologia": [
-        "imagenes/tecnologia/tecnologia1.png",
-        "imagenes/tecnologia/tecnologia2.png",
-        "imagenes/tecnologia/tecnologia3.png",
-        "imagenes/tecnologia/tecnologia4.png",
-        "imagenes/tecnologia/tecnologia5.png",
-        "imagenes/tecnologia/tecnologia6.png"
+        "imagenes/tecnologias/tecnologia1.webp",
+        "imagenes/tecnologias/tecnologia2.webp",
+        "imagenes/tecnologias/tecnologia3.webp",
+        "imagenes/tecnologias/tecnologia4.webp",
+        "imagenes/tecnologias/tecnologia5.webp",
+        "imagenes/tecnologias/tecnologia6.webp"
     ]
 }
