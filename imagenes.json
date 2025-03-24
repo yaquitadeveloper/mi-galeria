@@ -5,22 +5,34 @@
         "imagenes/animales/animal3.webp",
         "imagenes/animales/animal4.webp",
         "imagenes/animales/animal5.webp",
-        "imagenes/animales/animal6.webp"
+        "imagenes/animales/animal6.webp",
+        "imagenes/animales/animal7.webp",
+        "imagenes/animales/animal8.webp",
+        "imagenes/animales/animal9.webp",
+        "imagenes/animales/animal10.webp"
     ],
     "emojis": [
-        "imagenes/emojis/emoji1.webp",
-        "imagenes/emojis/emoji2.webp",
-        "imagenes/emojis/emoji3.webp",
-        "imagenes/emojis/emoji4.webp",
-        "imagenes/emojis/emoji5.webp",
-        "imagenes/emojis/emoji6.webp"
+        "imagenes/emojis/araña.webp",
+        "imagenes/emojis/batman.webp",
+        "imagenes/emojis/capitan.webp",
+        "imagenes/emojis/deapol.webp",
+        "imagenes/emojis/goku.webp",
+        "imagenes/emojis/hulk.webp",
+        "imagenes/emojis/iroman.webp",
+        "imagenes/emojis/lucas.webp",
+        "imagenes/emojis/ninja.webp",
+        "imagenes/emojis/stich.webp"
     ],
     "tecnologias": [
-        "imagenes/tecnologias/tecnologia1.webp",
-        "imagenes/tecnologias/tecnologia2.webp",
-        "imagenes/tecnologias/tecnologia3.webp",
-        "imagenes/tecnologias/tecnologia4.webp",
-        "imagenes/tecnologias/tecnologia5.webp",
-        "imagenes/tecnologias/tecnologia6.webp"
+        "imagenes/tecnologias/robot1.webp",
+        "imagenes/tecnologias/robot2.webp",
+        "imagenes/tecnologias/robot3.webp",
+        "imagenes/tecnologias/robot4.webp",
+        "imagenes/tecnologias/robot5.webp",
+        "imagenes/tecnologias/robot6.webp",
+        "imagenes/tecnologias/robot7.webp",
+        "imagenes/tecnologias/robot8.webp",
+        "imagenes/tecnologias/robot9.webp",
+        "imagenes/tecnologias/robot10.webp"
     ]
 }
